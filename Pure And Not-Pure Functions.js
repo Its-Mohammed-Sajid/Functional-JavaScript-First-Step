@@ -1,4 +1,4 @@
-// Not-Pure Function :
+// // Not-Pure Function :
 
 // let name = "Alonzo";
 
@@ -15,7 +15,7 @@
 // // Hello, Alan!
 
 
-// Pure Function :
+// // Pure Function :
 
 // function greet(name){
 //     return `Hello, ${name}!`
